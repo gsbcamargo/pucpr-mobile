@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora de IMC PUCPR</string>
+    <string name="calculadora_title">Calculadora</string>
+    <string name="weight">Seu peso em kg</string>
+    <string name="height">Sua altura em cm</string>
+    <string name="calculate">Calcular</string>
+    <string name="reset">Zerar valores</string>
+    <string name="result">Resultado: </string>
+
+    <string name="error">Os valores não podem ser vazios!</string>
+
+    <string name="very_severely_underweight">Muito severamente abaixo do peso recomendado!</string>
+    <string name="severely_underweight">Severamente abaixo do peso recomendado!</string>
+    <string name="underweight">Abaixo do peso recomendado!</string>
+    <string name="normal">Peso normal!</string>
+    <string name="overweight">Sobrepeso!</string>
+    <string name="obese_class_i">Moderadamente obeso (Obesidade Classe I)</string>
+    <string name="obese_class_ii">Severamente obeso (Obesidade Classe II)</string>
+    <string name="obese_class_iii">Muito severamente obeso (Obesidade Classe III)</string>
+</resources>
