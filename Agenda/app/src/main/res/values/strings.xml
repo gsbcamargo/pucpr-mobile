@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="salvar">Salvar</string>
+    <string name="edite_o_nome_hint">Edite o nome</string>
+    <string name="edite_o_endereco_hint">Edite o endereço</string>
+    <string name="edite_o_telefone_hint">Edite o telefone</string>
+    <string name="buscar_pessoa">Search</string>
+    <string name="cadastrar_pessoa">Cadastrar contato</string>
+</resources>
